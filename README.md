@@ -1,2 +1,2 @@
 # replica-netflix
-Desafio de Projeto "Clone da Netflix" proposta pela DIO.
+Desafio de Projeto "Réplica da Netflix" proposta pela DIO.
